@@ -1,0 +1,15 @@
+# فایل‌های سیستم
+.DS_Store
+Thumbs.db
+
+# فایل‌های ایدیتور
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# فایل‌های لاگ
+*.log
+
+# وابستگی‌ها
+node_modules/
